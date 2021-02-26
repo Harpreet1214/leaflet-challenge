@@ -9,3 +9,16 @@ body {
     height: 100%;
   }
   
+.legend {
+line-height: 20px;
+color: #555;
+background-color: "white";
+  }
+
+  .legend i {
+width: 18px;
+height: 18px;
+float: 18px;
+margin-right: left;
+opacity: 0.75;
+  }
